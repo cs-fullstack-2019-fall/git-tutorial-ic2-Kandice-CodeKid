@@ -4,4 +4,5 @@
  
 Our Code School is a hands-on class designed to train individuals to be entry-level software developers within a six-month course. The minimum education requirement is at least a high school diploma or GED. Students work in a small classroom setting and use real-word technologies to learn the fundamentals of coding, app development, the leadership, and the life skills needed for a successful career and job market competitiveness.
 
-This is my sentence. I am apart of this class because I want to be a software engineer. Awesomesause!!!!
+This is my sentence. I am apart of this class because I want to be a software engineer. Awesomesauce!!!!
+I need a spellcheck. :)
